@@ -24,7 +24,6 @@
                     <ul class="nav navbar-nav">
                         <li><a href="${pageContext.request.contextPath}">Home</a></li>
                         <li><a href="${pageContext.request.contextPath}/about">About</a></li>
-                        <li><a href="#">Contact</a></li>
                         <li class="Projects">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
                             <ul class="dropdown-menu">
