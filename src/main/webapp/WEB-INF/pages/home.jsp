@@ -5,6 +5,18 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
     <title>Siddharth Molleti</title>
+    <style>
+
+        html {
+            background: url('https://scontent-sea1-1.xx.fbcdn.net/hphotos-xpf1/t31.0-8/11154740_10152989871493725_6490647825451433103_o.jpg'`) no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+        }
+
+
+    </style>
 </head>
 <body>
     <div class="container">
@@ -31,10 +43,6 @@
                                 <li><a href="#">Android</a></li>
                                 <li><a href="#">iOS</a></li>
                                 <li><a href="#">Spring MVC</a></li>
-                                <li role="separator" class="divider"></li>
-                                <li class="dropdown-header">Nav header</li>
-                                <li><a href="#">Separated link</a></li>
-                                <li><a href="#">One more separated link</a></li>
                             </ul>
                         </li>
                     </ul>
