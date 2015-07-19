@@ -43,10 +43,10 @@
         <!-- Main component for a primary marketing message or call to action -->
         <div class="jumbotron">
             <h1>Siddharth Molleti</h1>
+            <img src="https://scontent-sea1-1.xx.fbcdn.net/hphotos-xpt1/t31.0-8/11154923_10152989867423725_3004925860720536557_o.jpg"
+                 class="img-rounded"
+                 height="500" width="500">
             <p>Welcome to my page</p>
-            <p>
-                <a class="btn btn-lg btn-primary" href="../../components/#navbar" role="button">View navbar docs &raquo;</a>
-            </p>
         </div>
 
     </div>
