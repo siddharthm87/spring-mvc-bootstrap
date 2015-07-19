@@ -5,18 +5,6 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
     <title>Siddharth Molleti</title>
-    <style>
-
-        html {
-            background: url('https://scontent-sea1-1.xx.fbcdn.net/hphotos-xpf1/t31.0-8/11154740_10152989871493725_6490647825451433103_o.jpg'`) no-repeat center center fixed;
-            -webkit-background-size: cover;
-            -moz-background-size: cover;
-            -o-background-size: cover;
-            background-size: cover;
-        }
-
-
-    </style>
 </head>
 <body>
     <div class="container">
