@@ -28,10 +28,10 @@
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        <li><a href="${pageContext.request.contextPath}">Home</a></li>
+        <li><a href="${pageContext.request.contextPath}/">Home</a></li>
         <li><a href="${pageContext.request.contextPath}/about">About</a></li>
         <li class="Projects">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
+          <a href="${pageContext.request.contextPath}/projects" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#">Android</a></li>
             <li><a href="#">iOS</a></li>
@@ -40,7 +40,7 @@
         </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="./">Contact<span class="sr-only">(current)</span></a></li>
+        <li><a href="${pageContext.request.contextPath}/contact">Contact<span class="sr-only">(current)</span></a></li>
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container-fluid -->
