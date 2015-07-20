@@ -12,6 +12,9 @@
     <title>This is the about page</title>
 </head>
 <body>
-    About Me!
+    <div class="container">
+        About Me!
+    </div>
+
 </body>
 </html>
