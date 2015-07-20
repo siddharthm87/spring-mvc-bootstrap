@@ -12,6 +12,10 @@
     <title></title>
 </head>
 <body>
+    <div class="container">
+        <li>Email: i@siddharthmolleti.com</li>
+        <li>Phone: 11111111</li>
+    </div>
 
 </body>
 </html>
