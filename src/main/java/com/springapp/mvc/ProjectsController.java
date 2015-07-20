@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @RequestMapping("/projects")
 public class ProjectsController {
     @RequestMapping(method = RequestMethod.GET)
-    public String printWelcome(ModelMap model) {
+    public String mapPage() {
         return "projects";
     }
 }

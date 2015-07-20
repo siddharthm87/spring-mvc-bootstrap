@@ -12,8 +12,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @RequestMapping("/about")
 public class AboutController {
     @RequestMapping(method = RequestMethod.GET)
-    public String printWelcome(ModelMap model) {
-        model.addAttribute("message", "Hello world!");
+    public String mapPage() {
         return "about";
     }
 }

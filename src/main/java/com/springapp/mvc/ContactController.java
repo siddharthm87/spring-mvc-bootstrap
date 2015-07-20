@@ -9,8 +9,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @RequestMapping("/contact")
 public class ContactController {
     @RequestMapping(method = RequestMethod.GET)
-    public String printWelcome(ModelMap model) {
-        model.addAttribute("message", "Hello world!");
+    public String mapPage() {
         return "contact";
     }
 }
