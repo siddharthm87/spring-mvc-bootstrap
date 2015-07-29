@@ -17,9 +17,6 @@
             <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> i@siddharthmolleti.com
         </h3>
         <br>
-        <h3>
-            <span class="glyphicon glyphicon-phone-alt" aria-hidden="true"></span> 1111111111
-        </h3>
     </div>
 
 </body>
