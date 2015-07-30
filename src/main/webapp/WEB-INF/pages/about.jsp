@@ -9,7 +9,7 @@
 <%@ include file="header-common.jsp" %>
 <html>
 <head>
-    <title>This is the about page</title>
+    <title>Experience with Java, web and datawarehousing. Held different responsibilities during these three years. Specialties: Ability to work with new technologies, learn and adapt quickly to challenging situations.</title>
 </head>
 <body>
     <div class="container">
